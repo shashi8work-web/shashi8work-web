@@ -25,12 +25,7 @@ A real-time quantitative risk analysis and transaction velocity dashboard design
 ### 📊 My GitHub Contributions
 
 <p align="center">
-  <a href="https://github.com/shashi8work-web">
-    <img src="https://github-readme-stats.vercel.app/api?username=shashi8work-web&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/shashi8work-web">
-    <img src="https://streak-stats.demolab.com?user=shashi8work-web&theme=tokyonight" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=shashi8work-web&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <br>
