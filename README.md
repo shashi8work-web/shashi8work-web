@@ -53,18 +53,18 @@ I merge the strategic, resilient frameworks of defense studies with high-frequen
 ### 📊 System Telemetry & Metrics
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
+  <!-- GitHub Streak Stats (Working) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashi8work-web&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Dynamic GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shashi8work-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <!-- Dynamic GitHub Stats (Cache Busted) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shashi8work-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_bypass=1" alt="GitHub Stats" width="48%" />
   
-  <!-- Language Activity -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi8work-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <!-- Language Activity (Cache Busted) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi8work-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_bypass=1" alt="Top Languages" width="48%" />
 </div>
 
 ---
