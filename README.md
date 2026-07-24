@@ -52,21 +52,19 @@ I merge the strategic, resilient frameworks of defense studies with high-frequen
 
 ### 📊 System Telemetry & Metrics
 
-*(Note: To activate these dynamic visual widgets, similar to your referenced dashboard layout, you will need to replace `your-github-username` below with your actual username).*
-
 <div align="center">
-  <!-- Isometric Contribution Calendar (Simulating the 3D grid) -->
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contributions" width="800" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashi8work-web&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
   <!-- Dynamic GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shashi8work-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   
   <!-- Language Activity -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi8work-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
 ---
