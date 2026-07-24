@@ -25,7 +25,7 @@ I merge the strategic, resilient frameworks of defense studies with high-frequen
 ### 📊 System Telemetry & Metrics
 
 <div align="center">
-  <img src="github-metrics.svg?v=1" alt="Metrics Dashboard">
+  <img src="github-metrics.svg?v=2" alt="Metrics Dashboard">
 </div>
 
 ---
