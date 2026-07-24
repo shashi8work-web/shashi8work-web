@@ -22,46 +22,10 @@ I merge the strategic, resilient frameworks of defense studies with high-frequen
 
 ---
 
-### 🛠️ The Arsenal (Tech Stack)
-
-<details>
-  <summary><b>Backend & Architecture</b></summary>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redis_Pub/Sub-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  </p>
-</details>
-
-<details>
-  <summary><b>Frontend & Tooling</b></summary>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
-</details>
-
----
-
 ### 📊 System Telemetry & Metrics
 
 <div align="center">
-  <!-- GitHub Streak Stats (Stable) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashi8work-web&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Quantitative Activity Data Stream -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashi8work-web&bg_color=0D1117&color=3b82f6&line=38B2AC&point=FFFFFF&hide_border=true&theme=tokyonight" alt="Activity Graph" width="100%" />
+  <img src="github-metrics.svg" alt="Metrics Dashboard" width="100%">
 </div>
 
 ---
