@@ -53,18 +53,15 @@ I merge the strategic, resilient frameworks of defense studies with high-frequen
 ### 📊 System Telemetry & Metrics
 
 <div align="center">
-  <!-- GitHub Streak Stats (Working) -->
+  <!-- GitHub Streak Stats (Stable) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashi8work-web&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Dynamic GitHub Stats (Cache Busted) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shashi8work-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_bypass=1" alt="GitHub Stats" width="48%" />
-  
-  <!-- Language Activity (Cache Busted) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi8work-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_bypass=1" alt="Top Languages" width="48%" />
+  <!-- Quantitative Activity Data Stream -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashi8work-web&bg_color=0D1117&color=3b82f6&line=38B2AC&point=FFFFFF&hide_border=true&theme=tokyonight" alt="Activity Graph" width="100%" />
 </div>
 
 ---
